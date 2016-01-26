@@ -1,7 +1,3 @@
-# angular-project
-Angular JS project with protractor and requirejs for a quick headstart with Web  Projects
-
-
 You need to install node js for running the project
 Node js with Express js (No need if done through other Http servers like Apache)
 
@@ -26,4 +22,3 @@ npm install grunt-contrib-uglify --save-dev [install locally within you current 
 
 npm install -g protractor [Globally installs express]
 npm install protractor --save-dev  [install locally within you current directory]
-
